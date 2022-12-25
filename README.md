@@ -3,7 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Header page
 
-https://user-images.githubusercontent.com/95264102/209458962-3136957d-dec8-456e-b9eb-c5f4d39dc271.jpg
 ![IMDb_Header_Page](https://user-images.githubusercontent.com/95264102/209459001-d32a6aee-72ab-450b-89ee-222810b3fc0a.jpg)
 
 ## Available Scripts

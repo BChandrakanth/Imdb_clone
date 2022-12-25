@@ -1,13 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Header page
 
+[IMDb_Header_Page]
+(https://user-images.githubusercontent.com/95264102/209458962-3136957d-dec8-456e-b9eb-c5f4d39dc271.jpg)
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm start`
-
+### `npm start`!
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 

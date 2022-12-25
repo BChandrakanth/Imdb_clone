@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Header page
+
+//Header page
 
 ![IMDb_Header_Page](https://user-images.githubusercontent.com/95264102/209459001-d32a6aee-72ab-450b-89ee-222810b3fc0a.jpg)
 
